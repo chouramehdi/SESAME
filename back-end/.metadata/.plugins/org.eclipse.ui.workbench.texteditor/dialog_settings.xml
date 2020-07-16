@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value=""/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="id_in"/>
+			<item value="Financement"/>
+			<item value="Devise"/>
+			<item value="Decoupage"/>
+			<item value="Indicateur"/>
+			<item value="description"/>
+			<item value="TypeIndicateur"/>
+			<item value="esponsableIndicateur"/>
+			<item value="SecteurDecoupage"/>
+			<item value="Type"/>
+			<item value="decoupage"/>
+			<item value="finance"/>
+			<item value="Secteur"/>
+			<item value="hiber"/>
+			<item value="Nature"/>
+		</list>
+		<list key="replacehistory">
+			<item value="DecoupageAnalytique"/>
+			<item value="Indicateur"/>
+			<item value="Financement"/>
+			<item value="ResponsableIndicateur"/>
+			<item value="esponsableIndicateur"/>
+			<item value="Nature"/>
+			<item value="Type"/>
+			<item value="Priorite"/>
+			<item value="Secteur"/>
+			<item value="decoupage"/>
+			<item value="Decoupage"/>
+			<item value="naturedecoupage"/>
+			<item value="NatureDecoupage"/>
+			<item value="AutresFinancement"/>
+			<item value="devise"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1164"/>
+		<item key="DIALOG_Y_ORIGIN" value="241"/>
+		<item key="DIALOG_WIDTH" value="284"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="652"/>
+		<item key="DIALOG_Y_ORIGIN" value="362"/>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;sesame&apos;&#x0D;&#x0A;- Original project: &apos;sesame&apos;&#x0D;&#x0A;- Original element: &apos;sesame/src/main/java/com.st2i.sesame.filters&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.st2i.sesame.filters" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1581341831155" subPackages="false" version="1.0"/>
+</session>
